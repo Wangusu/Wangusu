@@ -47,12 +47,6 @@ Technologies Used
 - CSS
 - JavaScript
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wangusu&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wangusu&layout=compact)
-
 ## 📫 Contact
 
 GitHub: https://github.com/Wangusu   
