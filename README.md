@@ -39,9 +39,9 @@ Currently focused on improving my backend development and database engineering s
 
 ## 🌍 Projects
 
-Website Project 1 – (https://karibusana.or.tz/pages/home.html)
+Website Project 1 – https://karibusana.or.tz/pages/home.html
 
-Website Project 2 – (link)
+Website Project 2 – https://www.hilmersheights.de/
 
 Database Mnagement system – (link)
 
