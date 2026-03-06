@@ -36,7 +36,15 @@ Currently focused on improving my backend development and database engineering s
 - [Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)  
 - [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)  
 - [Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
-- 
+
+## 🌍 Projects
+
+Website Project 1 – (https://karibusana.or.tz/pages/home.html)
+
+Website Project 2 – (link)
+
+Database Mnagement system – (link)
+
 ## 🚀 Featured Project
 
 ### Karibu Sana Environmental Website
