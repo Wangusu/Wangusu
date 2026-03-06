@@ -15,8 +15,7 @@ Currently focused on improving my backend development and database engineering s
 - 🤖 Exploring Artificial Intelligence tools, workflow automation, and AI-assisted development
 - 🌱 Currently improving my backend development, API integration, and database engineering skills
 - 🔧 Interested in Web Development, Networking Infrastructure, Cybersecurity, and Intelligent Automation
-
-  ## 🛠 Tech Stack
+ ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,14 +28,14 @@ Currently focused on improving my backend development and database engineering s
 
 ## 🏆 Cisco & IT Certifications
 
-[![CCNA: Introduction to Networks](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/public_url)](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)  
-[![Digital Safety & Awareness](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/public_url)](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)  
-[![Introduction to Cyber Security](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/public_url)](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)  
-[![IT Essentials](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/public_url)](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)  
-[![Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/public_url)](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)  
-[![Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/public_url)](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)  
-[![Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/public_url)](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
-
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)  
+- [Digital Safety & Awareness](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)  
+- [Introduction to Cyber Security](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)  
+- [IT Essentials](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)  
+- [Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)  
+- [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)  
+- [Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
+- 
 ## 🚀 Featured Project
 
 ### Karibu Sana Environmental Website
