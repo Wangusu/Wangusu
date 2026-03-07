@@ -1,6 +1,6 @@
 <img width="1000" height="200" alt="header_1" src="https://github.com/user-attachments/assets/a01002e5-011a-46d3-a1a2-51f574d587cf" />
 
-# Hi, I'm Last 👋
+# Hi, I'm Daudi Wangusu 👋
 
 💻 Full Stack Web Developer  
 📍 Dar es Salaam, Tanzania 
