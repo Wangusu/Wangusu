@@ -29,13 +29,14 @@ Currently focused on improving my backend development and database engineering s
 
 ## 🏆 Cisco & IT Certifications
 
-- [CCNA: Introduction to Networks](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)  
-- [Digital Safety & Awareness](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)  
-- [Introduction to Cyber Security](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)  
-- [IT Essentials](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)  
-- [Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)  
-- [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)  
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)
+- [Digital Safety & Awareness](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)
+- [Introduction to Cyber Security](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)
+- [IT Essentials](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)
+- [Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)
+- [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)
 - [Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
+- [Introduction to Modern AI](https://www.credly.com/badges/32495455-a695-4461-9bed-fcad6a478776/verify)
 
 ## 🌍 Projects
 
