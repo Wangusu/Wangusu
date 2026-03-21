@@ -29,15 +29,25 @@ Currently focused on improving my backend development and database engineering s
 
 ## 🏆 Cisco & IT Certifications
 
-- [CCNA: Introduction to Networks](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)
-- [Digital Safety & Awareness](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)
-- [Introduction to Cyber Security](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)
-- [IT Essentials](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)
-- [Python Essentials](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)
-- [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)
-- [Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
-- [Introduction to Modern AI](https://www.credly.com/badges/32495455-a695-4461-9bed-fcad6a478776/verify)
-- [![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-red)](https://www.credly.com/badges/a76af352-66f6-4285-be21-9ea999a344e6/verify)
+## 🏆 Certifications & Achievements
+[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA_Switching_Routing_and_Wireless_Essentials-red)](https://www.credly.com/badges/a76af352-66f6-4285-be21-9ea999a344e6/verify)
+
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Introduction_to_Networks-red?logo=cisco)](https://www.credly.com/badges/3a387971-9ae6-4afc-9593-4fcd900ce052/verify)
+
+[![IT Essentials](https://img.shields.io/badge/Cisco-IT_Essentials-orange?logo=cisco)](https://www.credly.com/badges/f52b6352-f152-4d6e-a444-2eb8f9b33cd6/verify)
+
+[![Networking Academy](https://img.shields.io/badge/Cisco-Networking_Academy_Learnathon-blue?logo=cisco)](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)
+
+[![Cyber Security](https://img.shields.io/badge/Cisco-Introduction_to_Cyber_Security-darkblue?logo=cisco)](https://www.credly.com/badges/6bf83384-39f2-4730-ad97-a1a117050b37/verify)
+
+[![Digital Safety](https://img.shields.io/badge/Cisco-Digital_Safety-green?logo=shield)](https://www.credly.com/badges/3a7edff8-e7c4-485d-8336-b16736b5384a/verify)
+
+[![Python](https://img.shields.io/badge/Cisco-Python_Essentials-yellow?logo=python)](https://www.credly.com/badges/7d4d8a43-8692-4899-84f8-7c03dfcf2e1b/verify)
+
+[![AI](https://img.shields.io/badge/Credly-Modern_AI-purple?logo=openai)](https://www.credly.com/badges/32495455-a695-4461-9bed-fcad6a478776/verify)
+
+[![Apply AI](https://img.shields.io/badge/AI-Analyze_Customer_Reviews-black?logo=google)](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
+
 
 ## 🌍 Projects
 
