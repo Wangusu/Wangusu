@@ -37,6 +37,7 @@ Currently focused on improving my backend development and database engineering s
 - [Networking Academy Learn-A-Thon](https://www.credly.com/badges/fcf41c5c-bfdd-415a-b96f-cc03c6c32d42/verify)
 - [Apply AI: Analyze Customer Reviews](https://www.credly.com/badges/5a316af7-990b-43c9-8579-dd7dd2cdaf52/verify)
 - [Introduction to Modern AI](https://www.credly.com/badges/32495455-a695-4461-9bed-fcad6a478776/verify)
+- [![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-red)](https://www.credly.com/badges/a76af352-66f6-4285-be21-9ea999a344e6/verify)
 
 ## 🌍 Projects
 
